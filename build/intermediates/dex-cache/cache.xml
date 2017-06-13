@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/Applications/ThiengoInstitucionalApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6355ca0b83fe73bbef2f05158487c888285451f">
+        <dex dex="/Users/viniciusthiengo/Desktop/Applications/ThiengoInstitucionalApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_60626da4313a06ffbbf4a4e7a33f81cd05900adb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viniciusthiengo/Desktop/Applications/ThiengoInstitucionalApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/viniciusthiengo/Desktop/Applications/ThiengoInstitucionalApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_829c980da654fe35a26efde1f08570885d4abcd6/classes.dex" />
+    </item>
+
+</items>

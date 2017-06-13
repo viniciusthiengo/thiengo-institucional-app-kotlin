@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thiengo Institucional App</string>
+    <string name="sms_activity_label">Contato SMS</string>
+
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+
+    <string name="explicacao_permissao">
+        Para que seja possível realizar a ligação telefônica partindo do aplicativo,
+        libere a permissão de ligação.
+    </string>
+
+    <string name="texto_institucional">
+        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e
+        de impressos, e vem sendo utilizado desde o século XVI, quando um impressor
+        desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro
+        de modelos de tipos.\n\n
+
+        Lorem Ipsum sobreviveu não só a cinco séculos, como
+        também ao salto para a editoração eletrônica, permanecendo essencialmente
+        inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques
+        contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser
+        integrado a softwares de editoração eletrônica como Aldus PageMaker.
+    </string>
+
+    <string name="hint_et_mensagem">Mensagem de texto</string>
+
+    <string name="explain_sms_activity">
+        Na mensagem de texto informe: o assunto principal, seu melhor email e um número
+        para contato. Pois assim entrarei em contato contigo.
+    </string>
+
+    <string name="enviar_button">Enviar</string>
+</resources>

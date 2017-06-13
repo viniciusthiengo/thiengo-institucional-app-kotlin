@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_inicio"
+            android:title="Início" />
+        <item
+            android:id="@+id/nav_contato_urgente"
+            android:icon="@drawable/ic_menu_telefone"
+            android:title="Contato urgente" />
+        <item
+            android:id="@+id/nav_sms"
+            android:icon="@drawable/ic_menu_sms"
+            android:title="Envie um SMS" />
+        <item
+            android:id="@+id/nav_email"
+            android:icon="@drawable/ic_menu_email"
+            android:title="Envie um e-mail" />
+        <item
+            android:id="@+id/nav_compartilhar"
+            android:icon="@drawable/ic_menu_compartilhar"
+            android:title="Compartilhar ideia" />
+        <item
+            android:id="@+id/nav_site"
+            android:icon="@drawable/ic_menu_site"
+            android:title="Visitar site" />
+    </group>
+</menu>
