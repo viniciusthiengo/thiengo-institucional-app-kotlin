@@ -1,5 +1,7 @@
 # Thiengo Institucional App (Kotlin Android)
 
+**⚠🚫[DEPRECIADA] A biblioteca Anko [se tornou obsoleta](https://github.com/Kotlin/anko/blob/master/GOODBYE.md) em Dezembro de 2019.**
+
 Projeto Kotlin Android da segunda parte do artigo [Iniciando com Anko Kotlin. Intenções no Android](https://www.thiengo.com.br/iniciando-com-anko-kotlin-intencoes-no-android#title-05) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
 Artigo que apresenta como utilizar o conjunto de APIs Anko Commons, conjunto este que faz parte de todo o portfólio de APIs da biblioteca Anko.
